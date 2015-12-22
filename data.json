@@ -1,29 +1,48 @@
 {
   "lines": [{
+    "name": "Project Line",
+    "alias": "p",
+    "stops": [{
+      "id": "p05",
+      "name": "Renna"
+    }, {
+      "id": "p04",
+      "name": "PraxSpots"
+    }, {
+      "id": "p03",
+      "name": "Adaptive Burrows-Wheeler"
+    }, {
+      "id": "p02",
+      "name": "gaku"
+    }, {
+      "id": "p01",
+      "name": "CollaboGUI"
+    }]
+  }, {
     "name": "Work Experience Line",
     "alias": "w",
     "stops": [{
-      "id": "w01",
+      "id": "w06",
       "name": "Palantir Technologies",
       "content": "views/palantir.html"
     }, {
-      "id": "w02",
+      "id": "w05",
       "name": "Google",
       "content": "views/google.html"
     }, {
-      "id": "w03",
-      "name": "Harvard",
+      "id": "w04",
+      "name": "Harvard University",
       "content": "views/harvard_job.html"
     }, {
-      "id": "w04",
+      "id": "w03",
       "name": "Collabo-School",
       "content": "views/collabo.html"
     }, {
-      "id": "w05",
+      "id": "w02",
       "name": "Modit",
       "content": "views/modit.html"
     }, {
-      "id": "w06",
+      "id": "w01",
       "name": "Rover",
       "content": "views/rover.html"
     }]
@@ -31,36 +50,20 @@
     "name": "Education Line",
     "alias": "e",
     "stops": [{
-      "id": "e01",
-      "name": "Harvard"
+      "id": "e05",
+      "name": "Harvard University"
     }, {
-      "id": "e02",
+      "id": "e04",
       "name": "Ecole Polytechnique"
     }, {
       "id": "e03",
       "name": "University of Tokyo"
     }, {
-      "id": "e04",
+      "id": "e02",
       "name": "American School of Paris"
     }, {
-      "id": "e05",
+      "id": "e01",
       "name": "Azabu High School"
-    }]
-  }, {
-    "name": "Project Line",
-    "alias": "p",
-    "stops": [{
-      "id": "p01",
-      "name": "PraxSpots"
-    }, {
-      "id": "p02",
-      "name": "Adaptive Burrows-Wheeler"
-    }, {
-      "id": "p03",
-      "name": "gaku"
-    }, {
-      "id": "p04",
-      "name": "CollaboGUI"
     }]
   }, {
     "name": "Language Line",
